@@ -10,7 +10,7 @@ Mysql
 nama database : db_testing
 
 how to run :
-mvn complie
+mvn clean install
 mvn spring-boot:run
 
 
