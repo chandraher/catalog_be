@@ -1,0 +1,27 @@
+IDE :
+intelej
+
+requirment :
+- install Java 21
+- install maven
+
+database :
+Mysql
+nama database : db_testing
+
+how to run :
+mvn complie
+mvn spring-boot:run
+
+
+====
+insert 1000 data ,
+
+
+
+============
+kumpulkan hari selasa tgl 10 23:59:59
+
+format :
+pdf nama_nim :
+screensoot  csv , tutor jmeternya, samapi ke hasil summary dan html
